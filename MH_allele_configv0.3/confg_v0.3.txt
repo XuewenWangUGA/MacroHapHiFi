@@ -1,0 +1,1 @@
+These macroHaplotpye alleles were gnerated based on the sites definfed in config version v0.3
